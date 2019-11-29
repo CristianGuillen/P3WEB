@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="rood-gerard [2]" group="jdbc:h2:tcp:/localhost/~" uuid="ab9ba33e-246e-454b-a96e-a5e7da816022">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost/~/rood-gerard</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Blog" group="jdbc:h2:tcp:" uuid="b7d527e3-ec78-4bc5-9d30-146236d51bc6">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:~/Blog</jdbc-url>
+    </data-source>
+  </component>
+</project>
